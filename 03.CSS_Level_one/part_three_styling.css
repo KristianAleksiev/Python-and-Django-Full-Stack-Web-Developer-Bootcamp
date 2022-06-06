@@ -1,0 +1,26 @@
+.firstDiv{
+  color: red;
+}
+.secondDiv{
+  color: blue;
+}
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+/**{  Overrides a lot of the elements
+  color: black;
+} */
+
+h3 + ul{ /* Siblings */
+  border: 3px dotted purple;
+}
+
+li a{ /*Any anchortags inside a list*/
+  color: red;
+}
+
+li a[href="www.abv.bg"]{ /* Affects any anchortags inside a list with a link...*/
+  color: orange;
+  border: 2px solid red
+}
