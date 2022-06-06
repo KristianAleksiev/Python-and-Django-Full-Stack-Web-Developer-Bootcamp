@@ -1,0 +1,10 @@
+li{
+  color: red;
+}
+.topitems{
+  color: blue;
+}
+#two{
+  color: green;
+}
+/* The more specific, the more priority it has */
