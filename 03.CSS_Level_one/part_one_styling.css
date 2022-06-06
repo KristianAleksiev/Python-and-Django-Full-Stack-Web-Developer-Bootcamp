@@ -1,0 +1,18 @@
+/* Comment */
+
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color: blue;
+}
+h4{
+  color: #00e1ff;
+}
+li{
+  color: rgba(255, 97, 0, 1); /*Transperancy*/
+}
+p{
+  color: rgb(255, 97, 1);
+}
