@@ -1,0 +1,32 @@
+h1{
+  width: 50%;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+}
+.art{
+  margin: auto;
+  padding-top: 50px;
+}
+td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+#first{
+  background-color: #4285F4;
+}
+#second{
+  background-color: #FBBC05;
+}
+#third{
+  background-color: #34A853;
+}
+#fourth{
+  background-color: #EA4335;
+}
+#fifth{
+  background-color: #FF9900;
+}
